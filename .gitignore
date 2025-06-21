@@ -5,3 +5,4 @@ artifacts/weights
 artifacts/model
 artifacts/model_checkpoint
 Anime_Recommender_System.egg-info/
+note_for_dvc.txt

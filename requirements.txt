@@ -1,0 +1,9 @@
+pandas 
+numpy
+setuptools
+pyyaml
+matplotlib
+keras
+joblib
+comet-ml 
+dvc

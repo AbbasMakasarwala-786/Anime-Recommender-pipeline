@@ -1,0 +1,25 @@
+2025-06-20 18:59:15,840 - INFO - Data Processing Intiallized
+2025-06-20 18:59:17,305 - INFO - data loaded succesfully for data Processing
+2025-06-20 18:59:17,502 - INFO - Filtered users sucesfully ..
+2025-06-20 18:59:18,601 - INFO - Scaling done for processing
+2025-06-20 18:59:18,760 - INFO - Encoding done for User and Anime
+2025-06-20 18:59:19,474 - INFO - Data Splitted Successfully
+2025-06-20 18:59:19,490 - INFO - user2user_encoded saved succesfully in processed Directory
+2025-06-20 18:59:19,514 - INFO - user2user_decoded saved succesfully in processed Directory
+2025-06-20 18:59:19,572 - INFO - anime2anime_encoded saved succesfully in processed Directory
+2025-06-20 18:59:19,624 - INFO - anime2anime_decoded saved succesfully in processed Directory
+2025-06-20 18:59:25,629 - INFO - All the training and testing data is Saved Succesfully
+2025-06-20 18:59:34,067 - ERROR - Error in C:\Users\91835\OneDrive\Desktop\mlops_project2\src\data_processing.py , Line 152 : Failed to save DF AND SYNOPSIS_DF CSV FILES
+2025-06-20 19:00:55,261 - INFO - Data Processing Intiallized
+2025-06-20 19:00:56,805 - INFO - data loaded succesfully for data Processing
+2025-06-20 19:00:56,986 - INFO - Filtered users sucesfully ..
+2025-06-20 19:00:58,115 - INFO - Scaling done for processing
+2025-06-20 19:00:58,341 - INFO - Encoding done for User and Anime
+2025-06-20 19:00:59,088 - INFO - Data Splitted Successfully
+2025-06-20 19:00:59,111 - INFO - user2user_encoded saved succesfully in processed Directory
+2025-06-20 19:00:59,132 - INFO - user2user_decoded saved succesfully in processed Directory
+2025-06-20 19:00:59,201 - INFO - anime2anime_encoded saved succesfully in processed Directory
+2025-06-20 19:00:59,265 - INFO - anime2anime_decoded saved succesfully in processed Directory
+2025-06-20 19:01:05,184 - INFO - All the training and testing data is Saved Succesfully
+2025-06-20 19:01:13,813 - INFO - DF AND SYNOPSIS_DF saved successfully ... 
+2025-06-20 19:01:13,817 - INFO - DATA processing pipeline run succesfully

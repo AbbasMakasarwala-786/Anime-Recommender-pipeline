@@ -1,0 +1,7 @@
+project2/
+artifacts/processed
+artifacts/raw
+artifacts/weights
+artifacts/model
+artifacts/model_checkpoint
+Anime_Recommender_System.egg-info/
